@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018-03-16 14:32:34.828.pas,C:\Users\liss\Documents\RAD Studio\Projects\Unit17.pas=F:\WORK\MyProj\MyTools\Main.pas</Transaction>
+    <Transaction>2018-03-16 14:32:34.828.dfm,C:\Users\liss\Documents\RAD Studio\Projects\Unit17.dfm=F:\WORK\MyProj\MyTools\Main.dfm</Transaction>
+    <Transaction>2018-03-16 14:32:42.843.bdsproj,C:\Users\liss\Documents\RAD Studio\Projects\Project12.bdsproj=F:\WORK\MyProj\MyTools\MyTools.bdsproj</Transaction>
+    <Transaction>2018-03-30 14:57:08.144.pas,F:\WORK\MyProj\MyTools\Unit1.pas=F:\WORK\MyProj\MyTools\MainConst.pas</Transaction>
+  </Transactions>
+</BorlandProject>
